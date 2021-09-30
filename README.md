@@ -1,4 +1,17 @@
-### Hi there 👋
+# Welcome! <img src="https://i.imgur.com/N573qVR.gif" width="50px">
+
+My name is Pitt Wu and I'm a Frontend developer. I'm from Taiwan, living in Taipei City and currently working at software company.
+
+![Pitt Wu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuzhe0912&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+## &#x270d; Blog
+
+Apart from coding, I also operate a blog, you can find my note on my website at [Pitt Wu's Docusaurus](https://pitt-docusaurus.netlify.app/).
+
+<!-- as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
+## &#x1f4c8; Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuzhe0912&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5)
 
 <!--
 **wuzhe0912/wuzhe0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
