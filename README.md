@@ -13,7 +13,7 @@ Apart from coding, I also operate a blog, you can find my note on my website at 
 <!-- as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 ## 🌱 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuzhe0912&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuzhe0912&show_icons=true&line_height=27&count_private=true&theme=vue-dark)
 
 ## 📫 How to reach me
 
