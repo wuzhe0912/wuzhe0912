@@ -4,7 +4,7 @@ My name is Pitt Wu and I'm a Frontend developer. I'm from Taiwan, living in Taip
 
 ## ⚡ Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuzhe0912&layout=compact&hide=html&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuzhe0912&layout=compact&hide=html,css&theme=vue-dark)
 
 ## &#x270d; Blog
 
