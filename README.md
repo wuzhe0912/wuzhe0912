@@ -1,4 +1,4 @@
-# Welcome! <img src="https://i.imgur.com/N573qVR.gif" width="50px">
+# Welcome! <img src="https://i.imgur.com/N573qVR.gif" width="20px" height="20px">
 
 My name is Pitt Wu and I'm a Frontend developer. I'm from Taiwan, living in Taipei City and currently working at software company.
 
