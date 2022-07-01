@@ -1,6 +1,8 @@
 # Welcome! <img src="https://i.imgur.com/N573qVR.gif" width="50px" height="50px">
 
-My name is Pitt Wu and I'm a Frontend developer. I'm from Taiwan, living in Taipei City and currently working at software company.
+My name is Pitt Wu and I'm a Frontend developer.
+
+About 4 years of experience in front-end work, good at handling front-end pages and data visualization. Mainly work with Vue.js related ecosystem, but also gradually master React related tools through self-learning.
 
 ## ⚡ Top Langs
 
@@ -17,7 +19,7 @@ Apart from coding, I also operate a blog, you can find my note on my website at 
 
 ## 📫 How to reach me
 
-- Email: pittwu@protonmail.com
+- Email: kgb00128@gmail.com
 
 <!--
 **wuzhe0912/wuzhe0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
