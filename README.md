@@ -1,4 +1,4 @@
-# Welcome! <img src="https://i.imgur.com/N573qVR.gif" width="50px" height="50px">
+# <img src="https://i.imgur.com/N573qVR.gif" width="30px" height="30px"> Welcome!
 
 Hi, I am Pitt Wu, a frontend engineer.
 
