@@ -6,21 +6,31 @@ I have nearly 6 years of experience in frontend development and currently work r
 
 As a frontend engineer, I believe that we are not only engineers but also creators. Therefore, I do not want to limit myself. In my spare time, I develop interesting projects using technologies such as Node.js and MongoDB to expand my knowledge of the entire software domain.
 
-<!-- ## 🚀 Side Projects -->
+## ⚡ Dashboard
 
-## ⚡ Top Langs
+![image](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuzhe0912&theme=github_dark)
+![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wuzhe0912&theme=github_dark)![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wuzhe0912&theme=github_dark)
+![image](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wuzhe0912&theme=github_dark)![image](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wuzhe0912&theme=github_dark&utcOffset=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuzhe0912&layout=compact&hide=html,css&theme=vue-dark)
+## &#x270d; Social Media
 
-## 🌱 PittWu's GitHub Stats
+- [Linkedin](https://www.linkedin.com/in/pitt-wu/)
+- [Personal Blog](https://pitt-docusaurus.netlify.app/)
+- [CakeResume](https://www.cakeresume.com/pittwu)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuzhe0912&show_icons=true&line_height=27&count_private=true&theme=vue-dark)
+## Side Projects
 
-## &#x270d; Blog
+### [True Salary Story(真薪話)](https://github.com/North-Cat/true-salary-story-client)
 
-Apart from coding, I also operate a blog, you can find my note on my website at [Pitt Wu's Docusaurus](https://pitt-docusaurus.netlify.app/).
+Clone Taiwan's salary sharing platform [比薪水](https://salary.tw/). That allows users to anonymously share their salary and work experience. The goal is to help job seekers understand the salary range of the industry and make better decisions.
 
-## 📫 How to reach me
+- Client Repo
+  - [Frontend](https://github.com/North-Cat/true-salary-story-client)
+  - [Backend](https://github.com/North-Cat/true-salary-story-client-api)
+- Admin Repo
+  - [Frontend](https://github.com/North-Cat/true-salary-story-admin)
+  - [Backend](https://github.com/North-Cat/true-salary-story-admin-api)
 
-- Email: kgb00128@gmail.com
-- LinkedIn: [Pitt Wu](https://www.linkedin.com/in/pitt-wu/)
+## 📫 Reach me
+
+- kgb00128@gmail.com
