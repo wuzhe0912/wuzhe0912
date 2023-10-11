@@ -12,24 +12,35 @@ As a frontend engineer, I believe that we are not only engineers but also creato
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wuzhe0912&theme=github_dark)![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wuzhe0912&theme=github_dark)
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wuzhe0912&theme=github_dark)![image](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wuzhe0912&theme=github_dark&utcOffset=8)
 
-## &#x270d; Social Media
+## 📚 Skills
+
+|                   | experience / year |      |
+| ----------------- | ----------------- | ---- |
+| JavaScript / ES6+ | Data              | Data |
+| Row 2             | Data              | Data |
+| Row 3             | Data              | Data |
+
+## 📜 Recent Practice Demo
+
+### [True Salary Story (真薪話)](https://github.com/North-Cat/true-salary-story-client)
+
+> Clone Taiwan's salary sharing platform [比薪水](https://salary.tw/). That allows users to anonymously share their salary and work experience. The goal is to help job seekers understand the salary range of the industry and make better decisions.
+
+#### Client Side Repo
+
+- [Frontend](https://github.com/North-Cat/true-salary-story-client)
+- [Backend](https://github.com/North-Cat/true-salary-story-client-api)
+
+#### Admin Side Repo
+
+- [Frontend](https://github.com/North-Cat/true-salary-story-admin)
+- [Backend](https://github.com/North-Cat/true-salary-story-admin-api)
+
+## 📝 Social Media
 
 - [Linkedin](https://www.linkedin.com/in/pitt-wu/)
-- [Personal Blog](https://pitt-docusaurus.netlify.app/)
 - [CakeResume](https://www.cakeresume.com/pittwu)
-
-## Side Projects
-
-### [True Salary Story(真薪話)](https://github.com/North-Cat/true-salary-story-client)
-
-Clone Taiwan's salary sharing platform [比薪水](https://salary.tw/). That allows users to anonymously share their salary and work experience. The goal is to help job seekers understand the salary range of the industry and make better decisions.
-
-- Client Repo
-  - [Frontend](https://github.com/North-Cat/true-salary-story-client)
-  - [Backend](https://github.com/North-Cat/true-salary-story-client-api)
-- Admin Repo
-  - [Frontend](https://github.com/North-Cat/true-salary-story-admin)
-  - [Backend](https://github.com/North-Cat/true-salary-story-admin-api)
+- [Personal Blog](https://pitt-wu-blog.vercel.app/)
 
 ## 📫 Reach me
 
