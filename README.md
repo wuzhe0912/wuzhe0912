@@ -14,11 +14,34 @@ As a frontend engineer, I believe that we are not only engineers but also creato
 
 ## 📚 Skills
 
-|                   | experience / year |      |
-| ----------------- | ----------------- | ---- |
-| JavaScript / ES6+ | Data              | Data |
-| Row 2             | Data              | Data |
-| Row 3             | Data              | Data |
+```md
+Personal
+┣ Front-End
+┃ ┣ JavaScript(ES6+)
+┃ ┃ ┗ Vue.js(2/3)
+┃ ┃ ┃ ┣ Pinia, Vuex, Vue Router
+┃ ┃ ┗ Nuxt3
+┃ ┃ ┗ React
+┃ ┃ ┃ ┣ React Router, React Hooks
+┃ ┣ TypeScript
+┃ ┗ Styles
+┃ ┃ ┗ CSS3, SASS(SCSS), TailwindCSS, styled-components, ElementUI, BootStrap
+┃ ┗ Streaming
+┃ ┃ ┗ Websocket(Socket.io)
+┃ ┗ Mobile
+┃ ┃ ┗ PWA
+┗ Back-End
+┃ ┣ Node.js(Express)
+┃ ┣ MongoDB(Mongoose)
+┗ Tools
+┃ ┣ Teamwork
+┃ ┃ ┗ Git(Sourcetree), Jira, GitLab
+┃ ┃ ┗ Swagger, Postman
+┃ ┣ Bundling & Build Tools
+┃ ┃ ┗ Vite, Webpack
+┃ ┣ SaaS Services
+┃ ┃ ┗ Railway, Zeabur
+```
 
 ## 📜 Recent Practice Demo
 
@@ -38,10 +61,10 @@ As a frontend engineer, I believe that we are not only engineers but also creato
 
 ## 📝 Social Media
 
-- [Linkedin](https://www.linkedin.com/in/pitt-wu/)
-- [CakeResume](https://www.cakeresume.com/pittwu)
 - [Personal Blog](https://pitt-wu-blog.vercel.app/)
 
 ## 📫 Reach me
 
-- kgb00128@gmail.com
+Gmail：kgb00128@gmail.com
+Linkedin：https://www.linkedin.com/in/pitt-wu/
+CakeResume：https://www.cakeresume.com/pittwu
