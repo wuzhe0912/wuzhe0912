@@ -65,6 +65,6 @@ Personal
 
 ## 📫 Reach me
 
-Gmail：kgb00128@gmail.com
-Linkedin：https://www.linkedin.com/in/pitt-wu/
-CakeResume：https://www.cakeresume.com/pittwu
+- Gmail：kgb00128@gmail.com
+- Linkedin：https://www.linkedin.com/in/pitt-wu/
+- CakeResume：https://www.cakeresume.com/pittwu
