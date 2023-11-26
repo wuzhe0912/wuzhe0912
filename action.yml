@@ -2,5 +2,5 @@ name: 'My Github Action Test'
 description: 'Test'
 
 runs:
-  using: 'node18'
+  using: 'node20'
   main: 'dist/index.js'
