@@ -3,4 +3,4 @@ description: 'Test'
 
 runs:
   using: 'node18'
-  main: 'index.js'
+  main: 'dist/index.js'
