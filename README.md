@@ -12,59 +12,10 @@ As a frontend engineer, I believe that we are not only engineers but also creato
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wuzhe0912&theme=github_dark)![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wuzhe0912&theme=github_dark)
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wuzhe0912&theme=github_dark)![image](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wuzhe0912&theme=github_dark&utcOffset=8)
 
-## 📚 Skills
+## ⚡️ Tech Stack
 
-```md
-Personal
-┣ Front-End
-┃ ┣ JavaScript(ES6+)
-┃ ┃ ┗ Vue.js(2/3)
-┃ ┃ ┃ ┣ Pinia, Vuex, Vue Router
-┃ ┃ ┗ Nuxt3
-┃ ┃ ┗ React
-┃ ┃ ┃ ┣ React Router, React Hooks
-┃ ┣ TypeScript
-┃ ┗ Styles
-┃ ┃ ┗ CSS3, SASS(SCSS), TailwindCSS, styled-components, ElementUI, BootStrap
-┃ ┗ Streaming
-┃ ┃ ┗ Websocket(Socket.io)
-┃ ┗ Mobile
-┃ ┃ ┗ PWA
-┗ Back-End
-┃ ┣ Node.js(Express)
-┃ ┣ MongoDB(Mongoose)
-┗ Tools
-┃ ┣ Teamwork
-┃ ┃ ┗ Git(Sourcetree), Jira, GitLab
-┃ ┃ ┗ Swagger, Postman
-┃ ┣ Bundling & Build Tools
-┃ ┃ ┗ Vite, Webpack
-┃ ┣ SaaS Services
-┃ ┃ ┗ Railway, Zeabur
-```
+![](https://img.shields.io/badge/Language-JavaScript-green) ![](https://img.shields.io/badge/Language-TypeScript-blue) ![](https://img.shields.io/badge/Stack-MERN-green) ![](https://img.shields.io/badge/Stack-MEVN-green)
 
-## 📜 Recent Practice Demo
+## 📫 Connect with me
 
-### [True Salary Story (真薪話)](https://github.com/North-Cat/true-salary-story-client)
-
-> Clone Taiwan's salary sharing platform [比薪水](https://salary.tw/). That allows users to anonymously share their salary and work experience. The goal is to help job seekers understand the salary range of the industry and make better decisions.
-
-#### Client Side Repo
-
-- [Frontend](https://github.com/North-Cat/true-salary-story-client)
-- [Backend](https://github.com/North-Cat/true-salary-story-client-api)
-
-#### Admin Side Repo
-
-- [Frontend](https://github.com/North-Cat/true-salary-story-admin)
-- [Backend](https://github.com/North-Cat/true-salary-story-admin-api)
-
-## 📝 Social Media
-
-- [Personal Blog](https://pitt-wu-blog.vercel.app/)
-
-## 📫 Reach me
-
-- Gmail：kgb00128@gmail.com
-- Linkedin：https://www.linkedin.com/in/pitt-wu/
-- CakeResume：https://www.cakeresume.com/pittwu
+[![Send me Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kgb00128@gmail.com) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/pitt-wu/) [![Connect on CakeResume](https://img.shields.io/badge/--cakeresume?label=CakeResume&logo=CakeResume&style=social)](https://www.cakeresume.com/pittwu) [![Connect on Blog](https://img.shields.io/badge/--blog?label=Blog&logo=Blog&style=social)](https://pitt-wu-blog.vercel.app/)
