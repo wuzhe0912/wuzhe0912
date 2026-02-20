@@ -1,12 +1,12 @@
 # <img src="https://i.imgur.com/N573qVR.gif" width="30px" height="30px"> Hey, I'm Pitt Wu
 
-[![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md)
+[![English](https://img.shields.io/badge/English-grey?style=flat-square)](./README.md) [![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md)
 
-Senior frontend engineer with 7+ years of experience, currently working on enterprise platform development for Southeast Asian markets.
+シニアフロントエンドエンジニア、経験7年以上。現在は東南アジア向け企業プラットフォームの開発を担当しています。
 
-What I've built over the years: supported 26 brand templates with a multi-tenant CMS architecture, cutting theme deployment time from 10 days to 2; implemented WebAuthn biometric and Fingerprint device recognition to block 90% of abnormal logins; migrated 10+ brand websites from Cordova to PWA; independently refactored a live-streaming admin system, improving page response speed by 40%. In 2025, I took on a part-time PM role mentoring cross-functional teams from zero to MVP.
+これまでの実績：マルチテナント CMS アーキテクチャで26ブランドのテンプレートを運用し、テーマのデプロイ時間を10日から2日に短縮。WebAuthn 生体認証と Fingerprint デバイス認識を導入し、異常ログインの90%をブロック。10以上のブランドサイトを Cordova から PWA へ移行。ライブ配信管理システムを単独でリファクタリングし、ページ応答速度を40%改善。2025年にはPMを兼任し、クロスファンクショナルチームをゼロからMVPまで導きました。
 
-My current dev workflow is CLI-first, with Claude Code as my primary tool. Rebuilt my entire tech blog in 10 days — 104 commits, 263K+ lines of code, translations across 10 locales. Transitioning toward a Software / Product Engineer role.
+現在の開発フローは CLI-first で、主力ツールは Claude Code です。10日間で技術ブログ全体を再構築——104コミット、26万行以上のコード、10言語の翻訳。Software / Product Engineer へのキャリア転換を進めています。
 
 ## ⚡ Tech Stack
 

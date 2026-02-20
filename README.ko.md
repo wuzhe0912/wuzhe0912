@@ -1,12 +1,12 @@
 # <img src="https://i.imgur.com/N573qVR.gif" width="30px" height="30px"> Hey, I'm Pitt Wu
 
-[![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md)
+[![English](https://img.shields.io/badge/English-grey?style=flat-square)](./README.md) [![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md)
 
-Senior frontend engineer with 7+ years of experience, currently working on enterprise platform development for Southeast Asian markets.
+시니어 프론트엔드 엔지니어, 7년 이상의 경력. 현재 동남아시아 기업 플랫폼 개발을 담당하고 있습니다.
 
-What I've built over the years: supported 26 brand templates with a multi-tenant CMS architecture, cutting theme deployment time from 10 days to 2; implemented WebAuthn biometric and Fingerprint device recognition to block 90% of abnormal logins; migrated 10+ brand websites from Cordova to PWA; independently refactored a live-streaming admin system, improving page response speed by 40%. In 2025, I took on a part-time PM role mentoring cross-functional teams from zero to MVP.
+지난 몇 년간의 성과: 멀티테넌트 CMS 아키텍처로 26개 브랜드 템플릿을 운영하며 테마 배포 시간을 10일에서 2일로 단축. WebAuthn 생체 인식과 Fingerprint 디바이스 인식을 도입하여 비정상 로그인의 90%를 차단. 10개 이상의 브랜드 웹사이트를 Cordova에서 PWA로 마이그레이션. 라이브 스트리밍 관리 시스템을 단독으로 리팩토링하여 페이지 응답 속도 40% 향상. 2025년에는 PM 역할을 겸하며 크로스펑셔널 팀을 제로에서 MVP까지 이끌었습니다.
 
-My current dev workflow is CLI-first, with Claude Code as my primary tool. Rebuilt my entire tech blog in 10 days — 104 commits, 263K+ lines of code, translations across 10 locales. Transitioning toward a Software / Product Engineer role.
+현재 개발 워크플로우는 CLI-first이며, 주력 도구는 Claude Code입니다. 10일 만에 기술 블로그 전체를 재구축——104커밋, 26만 줄 이상의 코드, 10개 언어 번역. Software / Product Engineer로의 전환을 추진하고 있습니다.
 
 ## ⚡ Tech Stack
 

@@ -1,12 +1,12 @@
 # <img src="https://i.imgur.com/N573qVR.gif" width="30px" height="30px"> Hey, I'm Pitt Wu
 
-[![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md)
+[![English](https://img.shields.io/badge/English-grey?style=flat-square)](./README.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md)
 
-Senior frontend engineer with 7+ years of experience, currently working on enterprise platform development for Southeast Asian markets.
+資深前端工程師，7+ 年經驗，目前負責東南亞企業平台的開發。
 
-What I've built over the years: supported 26 brand templates with a multi-tenant CMS architecture, cutting theme deployment time from 10 days to 2; implemented WebAuthn biometric and Fingerprint device recognition to block 90% of abnormal logins; migrated 10+ brand websites from Cordova to PWA; independently refactored a live-streaming admin system, improving page response speed by 40%. In 2025, I took on a part-time PM role mentoring cross-functional teams from zero to MVP.
+過去幾年做過的事：用多租戶 CMS 架構支撐 26 個品牌樣板，把主題部署時間從 10 天壓到 2 天；導入 WebAuthn 生物辨識與 Fingerprint 設備辨識，擋掉 90% 異常登入；把 10+ 品牌網站從 Cordova 遷移到 PWA；獨立重構直播後台系統，頁面回應速度提升 40%。2025 年嘗試兼職 PM 工作，帶跨職能團隊從零到 MVP。
 
-My current dev workflow is CLI-first, with Claude Code as my primary tool. Rebuilt my entire tech blog in 10 days — 104 commits, 263K+ lines of code, translations across 10 locales. Transitioning toward a Software / Product Engineer role.
+現在的開發流程是 CLI-first，主力工具是 Claude Code。曾用 10 天重建整個技術部落格——104 commits、26 萬行程式碼、10 種語系翻譯。正在朝 Software / Product Engineer 方向轉型。
 
 ## ⚡ Tech Stack
 
