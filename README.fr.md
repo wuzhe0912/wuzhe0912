@@ -1,12 +1,12 @@
 # <img src="https://i.imgur.com/N573qVR.gif" width="30px" height="30px"> Hey, I'm Pitt Wu
 
-[![English](https://img.shields.io/badge/English-grey?style=flat-square)](./README.md) [![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md) [![es](https://img.shields.io/badge/Español-grey?style=flat-square)](./README.es.md) [![pt-BR](https://img.shields.io/badge/Português-grey?style=flat-square)](./README.pt-BR.md) [![de](https://img.shields.io/badge/Deutsch-grey?style=flat-square)](./README.de.md) [![fr](https://img.shields.io/badge/Français-grey?style=flat-square)](./README.fr.md) [![vi](https://img.shields.io/badge/Tiếng_Việt-grey?style=flat-square)](./README.vi.md)
+[![English](https://img.shields.io/badge/English-grey?style=flat-square)](./README.md) [![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md) [![es](https://img.shields.io/badge/Español-grey?style=flat-square)](./README.es.md) [![pt-BR](https://img.shields.io/badge/Português-grey?style=flat-square)](./README.pt-BR.md) [![de](https://img.shields.io/badge/Deutsch-grey?style=flat-square)](./README.de.md) [![vi](https://img.shields.io/badge/Tiếng_Việt-grey?style=flat-square)](./README.vi.md)
 
-资深前端工程师，7+ 年经验，目前负责东南亚企业平台的开发。
+Ingénieur frontend senior avec plus de 7 ans d'expérience, travaillant actuellement sur le développement de plateformes d'entreprise pour les marchés d'Asie du Sud-Est.
 
-过去几年做过的事：用多租户 CMS 架构支撑 26 个品牌模板，把主题部署时间从 10 天压到 2 天；引入 WebAuthn 生物识别与 Fingerprint 设备识别，拦截 90% 异常登录；将 10+ 品牌网站从 Cordova 迁移到 PWA；独立重构直播后台系统，页面响应速度提升 40%。2025 年尝试兼职 PM 工作，带跨职能团队从零到 MVP。
+Ce que j'ai construit au fil des années : prise en charge de 26 modèles de marque avec une architecture CMS multi-tenant, réduisant le temps de déploiement des thèmes de 10 jours à 2 ; implémentation de la reconnaissance biométrique WebAuthn et de la reconnaissance d'appareils Fingerprint pour bloquer 90 % des connexions anormales ; migration de plus de 10 sites web de marque de Cordova vers PWA ; refactoring indépendant d'un système d'administration de streaming en direct, améliorant la vitesse de réponse des pages de 40 %. En 2025, j'ai assumé un rôle de PM à temps partiel en encadrant des équipes pluridisciplinaires de zéro au MVP.
 
-现在的开发流程是 CLI-first，主力工具是 Claude Code。曾用 10 天重建整个技术博客——104 commits、26 万行代码、10 种语言翻译。正在朝 Software / Product Engineer 方向转型。
+Mon workflow de développement actuel est CLI-first, avec Claude Code comme outil principal. J'ai reconstruit l'intégralité de mon blog technique en 10 jours — 104 commits, plus de 263 000 lignes de code, des traductions dans 10 langues. En transition vers un rôle de Software / Product Engineer.
 
 ## ⚡ Tech Stack
 

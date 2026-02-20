@@ -1,12 +1,12 @@
 # <img src="https://i.imgur.com/N573qVR.gif" width="30px" height="30px"> Hey, I'm Pitt Wu
 
-[![English](https://img.shields.io/badge/English-grey?style=flat-square)](./README.md) [![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md) [![es](https://img.shields.io/badge/Español-grey?style=flat-square)](./README.es.md) [![pt-BR](https://img.shields.io/badge/Português-grey?style=flat-square)](./README.pt-BR.md) [![de](https://img.shields.io/badge/Deutsch-grey?style=flat-square)](./README.de.md) [![fr](https://img.shields.io/badge/Français-grey?style=flat-square)](./README.fr.md) [![vi](https://img.shields.io/badge/Tiếng_Việt-grey?style=flat-square)](./README.vi.md)
+[![English](https://img.shields.io/badge/English-grey?style=flat-square)](./README.md) [![zh-TW](https://img.shields.io/badge/繁體中文-grey?style=flat-square)](./README.zh-TW.md) [![zh-CN](https://img.shields.io/badge/简体中文-grey?style=flat-square)](./README.zh-CN.md) [![ja](https://img.shields.io/badge/日本語-grey?style=flat-square)](./README.ja.md) [![ko](https://img.shields.io/badge/한국어-grey?style=flat-square)](./README.ko.md) [![es](https://img.shields.io/badge/Español-grey?style=flat-square)](./README.es.md) [![pt-BR](https://img.shields.io/badge/Português-grey?style=flat-square)](./README.pt-BR.md) [![de](https://img.shields.io/badge/Deutsch-grey?style=flat-square)](./README.de.md) [![fr](https://img.shields.io/badge/Français-grey?style=flat-square)](./README.fr.md)
 
-资深前端工程师，7+ 年经验，目前负责东南亚企业平台的开发。
+Kỹ sư frontend cao cấp với hơn 7 năm kinh nghiệm, hiện đang phát triển nền tảng doanh nghiệp cho thị trường Đông Nam Á.
 
-过去几年做过的事：用多租户 CMS 架构支撑 26 个品牌模板，把主题部署时间从 10 天压到 2 天；引入 WebAuthn 生物识别与 Fingerprint 设备识别，拦截 90% 异常登录；将 10+ 品牌网站从 Cordova 迁移到 PWA；独立重构直播后台系统，页面响应速度提升 40%。2025 年尝试兼职 PM 工作，带跨职能团队从零到 MVP。
+Những gì tôi đã xây dựng trong những năm qua: hỗ trợ 26 mẫu thương hiệu với kiến trúc CMS đa thuê bao, giảm thời gian triển khai chủ đề từ 10 ngày xuống 2 ngày; triển khai nhận dạng sinh trắc học WebAuthn và nhận dạng thiết bị Fingerprint để chặn 90% đăng nhập bất thường; chuyển đổi hơn 10 trang web thương hiệu từ Cordova sang PWA; tái cấu trúc độc lập hệ thống quản trị phát trực tiếp, cải thiện tốc độ phản hồi trang 40%. Năm 2025, tôi đảm nhận vai trò PM bán thời gian, hướng dẫn các nhóm liên chức năng từ số không đến MVP.
 
-现在的开发流程是 CLI-first，主力工具是 Claude Code。曾用 10 天重建整个技术博客——104 commits、26 万行代码、10 种语言翻译。正在朝 Software / Product Engineer 方向转型。
+Quy trình phát triển hiện tại của tôi là CLI-first, với Claude Code là công cụ chính. Đã xây dựng lại toàn bộ blog kỹ thuật trong 10 ngày — 104 commit, hơn 263.000 dòng mã, bản dịch qua 10 ngôn ngữ. Đang chuyển đổi sang vai trò Software / Product Engineer.
 
 ## ⚡ Tech Stack
 
